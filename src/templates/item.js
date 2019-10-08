@@ -33,7 +33,7 @@ const Dropdown = styled.select`
   display: block;
   padding: 10px;
   margin: 10px 0;
-  background: ${props => props.theme.colors.secondaryAccent};
+  background: ${props => props.theme.colors.primaryAccent};
   font-weight: 700;
   border: none;
   outline: none;
@@ -48,7 +48,7 @@ const DropdownOption = styled.option`
 
 const BuyButton = styled.button`
   padding: 20px;
-  background: ${props => props.theme.colors.secondaryAccent};
+  background: ${props => props.theme.colors.primaryAccent};
   font-weight: 700;
 `
 
@@ -72,7 +72,7 @@ class Item extends React.Component {
    // calculate price based on option selected for display on item page
   updatePrice = (basePrice, values) => {
     const selectedOption = values.find(option => option.name === this.state.selected)
-    return (basePrice + selectedOption.priceChange).toFixed(2)
+    return (basePrice + selectedOption.priceChange).toFixed(1) 
     
   }
 

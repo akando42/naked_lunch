@@ -3,8 +3,8 @@
 
 export const theme = {
     colors: {
-        main: 'thistle', //used in header
-        primaryAccent: 'linen', //used for thumbnails on homepage and as price background
-        secondaryAccent: 'gainsboro', //used for header border and item buttons
+        main: 'yellow;', //used in header
+        primaryAccent: 'yellow', //used for thumbnails on homepage and as price background
+        secondaryAccent: 'black', //used for header border and item buttons
     }
 };
