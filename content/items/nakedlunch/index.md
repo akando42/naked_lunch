@@ -1,10 +1,10 @@
 ---
-title: One Naked Paiting Session
+title: One Naked Lunch Painting Session
 date: 2019-10-10
 id: 1
 price: 96
 image: ./image1.jpg
-description: Lunch, Paint beautiful people! Lets your creativity fly !
+description: Paint beautiful people at noon. Lets your creativity fly !
 customField: 
     name: Pack Size
     values: [
@@ -13,5 +13,4 @@ customField:
         {name: 'Pack of 12 Sessions', priceChange: 594.00}
     ]
 ---
-Lunch, Paint beautiful people !
-Lets your creativity fly !
+Paint beautiful people at noon. Lets your creativity fly !
