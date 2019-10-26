@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Naked Lunch Studio`,
     author: `Naked Lunch Group`,
-    description: `Paint Beautify People At Noon`,
+    description: `A Daylight Painting of Beautiful People`,
     siteUrl: `https://nakedlunch.live/`,
   },
   plugins: [
@@ -46,8 +46,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Snipcart Starter`,
-        short_name: `Gatsby Snipcart`,
+        name: `Naked Lunch Cart`,
+        short_name: `Naked Lunch Cart`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `thistle`,
