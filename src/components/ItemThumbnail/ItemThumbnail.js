@@ -46,11 +46,11 @@ const LinkStyled = styled(Link)`
 
 const ImgStyled = styled(Img)`
     width: 100%;
-    height: 350px;
+    height: 100%;
 
     @media (max-width: 930px) {
-        height: 250px;
-      }
+        height: 100%;
+    }
 `
 
 const Price = styled.p`
