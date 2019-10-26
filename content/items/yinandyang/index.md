@@ -4,7 +4,7 @@ date: 2019-10-10
 id: 3
 price: 690
 image: ./yinandyang.jpg
-description: Inspiration comes the yin and yang symbol and the eternal battle between good and evil.
+description: Inspiration comes the yin and yang symbol and the eternal battle between good and evil or the parallel existence of the positive and negative world in East Asian belief.
 customField: 
     name: Pack Size
     values: [
