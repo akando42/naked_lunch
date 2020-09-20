@@ -91,7 +91,9 @@ class BlogIndex extends React.Component {
                 />
                 <EndingWrapper>
                   <Frame src={Ending} />
-                  <Heading>The Ending</Heading>
+                  <Heading>
+                    The Ending
+                  </Heading>
                 </EndingWrapper>
               </StoryLine>
             )
