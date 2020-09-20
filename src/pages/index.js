@@ -8,7 +8,7 @@ import ItemThumbnail from '../components/ItemThumbnail/ItemThumbnail';
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Img from "gatsby-image";
-import Beginning from "../../static/beginning.jpg";
+import Beginning from "../../static/beginning.png";
 import Ending from "../../static/ending.gif";
 
 const ThumbnailsWrapper = styled.div`
